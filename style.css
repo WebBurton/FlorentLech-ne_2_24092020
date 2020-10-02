@@ -1,0 +1,31 @@
+body
+{
+    background-color: silver;
+    background-image: url("Dofusoeuf.jpg");
+}
+h2
+{
+    box-shadow: 6px 6px 10px black;
+    text-shadow: 6px 6px 10px black;
+}
+h1
+{
+    box-shadow:  6px 6px 10px black;
+    text-shadow: 6px 6px 10px black;
+}
+.information
+{
+    font-weight: bold;
+}
+a:hover
+{
+    color: red;
+}
+a:visited
+{
+    color: midnightblue;
+}
+p
+{
+    font-weight: bold;
+}
