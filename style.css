@@ -7,11 +7,14 @@ h2
 {
     box-shadow: 6px 6px 10px black;
     text-shadow: 6px 6px 10px black;
+    width: 10%;
 }
 h1
 {
     box-shadow:  6px 6px 10px black;
     text-shadow: 6px 6px 10px black;
+    width: 30%;
+    margin: auto;
 }
 .information
 {
@@ -28,4 +31,9 @@ a:visited
 p
 {
     font-weight: bold;
+}
+
+@media all and (max-device-width: 480px)
+{
+  
 }
